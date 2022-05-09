@@ -1,0 +1,26 @@
+RobotJawn Crimson
+
+getPassQualifiers();
+winSemiFinals();
+
+prepareForFinals(){ parallel command
+discussWith(teams.alliancePartner);
+mentallyPrepare();
+}
+
+loseFinals(){ race command
+questionLife();
+waitForAwardCeremony();
+}
+
+cryAboutIt(){ race command
+questionLife();
+schoolMonday(isActive?);
+}
+
+
+
+
+
+
+
