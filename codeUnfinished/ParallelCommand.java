@@ -1,0 +1,5 @@
+class ParallelCommnad{
+  void ParallelCommand(){
+    
+  }
+}
